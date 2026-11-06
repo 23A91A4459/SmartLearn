@@ -1,8 +1,7 @@
 
 import { useState } from "react";
 
-const API_URL = "http://localhost:5000";
-
+const API_URL = "https://smartlearn-yz6s.onrender.com";
 function Auth({ onLogin }) {
   const [page, setPage] = useState("login");
   const [name, setName] = useState("");

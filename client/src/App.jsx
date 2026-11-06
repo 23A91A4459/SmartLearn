@@ -3,7 +3,7 @@ import "./App.css";
 import Auth from "./Auth";
 import ResetPassword from "./ResetPassword";
 import LandingPage from "./LandingPage";
-const API_URL = "http://localhost:5000";
+const API_URL = "https://smartlearn-yz6s.onrender.com";
 
 const topicLogos = {
   javascript: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
